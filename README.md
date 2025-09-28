@@ -1,2 +1,0 @@
-# coindash
-privacy
